@@ -200,7 +200,7 @@
                 app:layout_constraintTop_toTopOf="@id/next_button"
                  />
 
-            <!-- TODO: go to the next screen when clicked -->
+            <!-- go to the next screen when clicked -->
             <Button
                 android:id="@+id/next_button"
                 style="@style/Widget.Order.Button.Next"
