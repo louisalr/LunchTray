@@ -16,7 +16,19 @@
   -->
 <navigation xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    android:id="@+id/mobile_navigation">
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/startOrderFragment">
 
 
+    <fragment
+        android:id="@+id/startOrderFragment"
+        android:name="com.example.lunchtray.ui.order.StartOrderFragment"
+        android:label="fragment_start_order"
+        tools:layout="@layout/fragment_start_order" />
+    <fragment
+        android:id="@+id/entreeMenuFragment"
+        android:name="com.example.lunchtray.ui.order.EntreeMenuFragment"
+        android:label="fragment_entree_menu"
+        tools:layout="@layout/fragment_entree_menu" />
 </navigation>

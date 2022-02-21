@@ -6,7 +6,7 @@
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.22146739130434784" />
         <entry key="app/src/main/res/layout/fragment_accompaniment_menu.xml" value="0.22146739130434784" />
         <entry key="app/src/main/res/layout/fragment_checkout.xml" value="0.22146739130434784" />
-        <entry key="app/src/main/res/layout/fragment_entree_menu.xml" value="0.22146739130434784" />
+        <entry key="app/src/main/res/layout/fragment_entree_menu.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_side_menu.xml" value="0.22146739130434784" />
         <entry key="app/src/main/res/layout/fragment_start_order.xml" value="0.22146739130434784" />
       </map>
